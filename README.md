@@ -3,7 +3,7 @@
 Radar Application, which is responsive and compatible with every screen, where you can see flight details, status and route, was created using React libraries.
 
 
-## Kütüphaneler
+## Libraries
 - @reduxjs/toolkit
 - react-redux
 - axios
